@@ -1,0 +1,5 @@
+﻿  Project 2.cpp
+C:\C++\Level 2 - 05\Project 2\Project 2\Project 2.cpp(68,1): warning C4715: 'InputTheQuestion': not all control paths return a value
+C:\C++\Level 2 - 05\Project 2\Project 2\Project 2.cpp(81,1): warning C4715: 'OperrationTheQesustion': not all control paths return a value
+C:\C++\Level 2 - 05\Project 2\Project 2\Project 2.cpp(138,1): warning C4715: 'TheAnswer': not all control paths return a value
+  Project 2.vcxproj -> C:\C++\Level 2 - 05\Project 2\Project 2\x64\Debug\Project 2.exe
